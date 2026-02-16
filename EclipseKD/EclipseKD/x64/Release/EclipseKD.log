@@ -1,0 +1,11 @@
+﻿  Building 'EclipseKD' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  driver.cpp
+  memory.cpp
+  hook.cpp
+  Generating Code...
+  EclipseKD.vcxproj -> C:\Users\pc\source\repos\EclipseKD\x64\Release\EclipseKD.sys
+  Driver is 'Universal'.
+  Inf2Cat task was skipped as there were no inf files to process
+  
+  DrvCat task was skipped as there was no catalog file to process
+  
